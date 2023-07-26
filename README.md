@@ -1,8 +1,8 @@
-# Graphs connectivity and Fat-tree Vs Jellyfish
+# Fat-tree Vs Jellyfish
 
-This repository is the solution to the Challenge 1 for Networking for Big Data.
+This repository is the solution to the Challenge 1 of Networking for Big Data.
 
-The challenge was about the analysis of connectivity in different types of graphs and implementing the Fat-tree and Jellyfish data center topology (highlighting differences or similarities regarding *response time*).
+The challenge was about the analysis of connectivity in different types of graphs and implementing the Fat-tree and Jellyfish data center topologies (highlighting differences or similarities regarding *response time*).
 
 ## Repository Structure
 
