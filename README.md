@@ -57,3 +57,9 @@ To show the plots then:
 ```bash
 mprof plot
 ```
+
+## Team
+
+- [Mario Edoardo Pandolfo](https://github.com/JRhin)
+- [Gabriele Pelliccioni](https://github.com/gabrielepelliccioni13)
+- [Giuseppe di Poce](https://github.com/giuseppedipoce)
