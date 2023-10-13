@@ -1385,7 +1385,7 @@ if __name__ == "__main__":
   
     parser.add_argument('-n',
                         '--nodes',
-                        help='The number of nodes for the graph. Dafault 100.',
+                        help='The number of nodes for the graph. Default 100.',
                         default=10000,
                         type=int)
   
